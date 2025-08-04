@@ -39,3 +39,9 @@ This is a responsive and accessible portfolio website built using Bootstrap and 
 
 - **Figma:**  
   Source: [My Design](https://www.figma.com/proto/Gu9Co9MOwC2ruMnYUvDvrE/Ismail-Damilola?node-id=40002226-13775&p=f&t=J8uC6ut1yIHXrieg-1&scaling=scale-down&content-scaling=fixed&page-id=40002186%3A3064&starting-point-node-id=40002226%3A13775)
+
+https://www.figma.com/design/Gu9Co9MOwC2ruMnYUvDvrE/Ismail-Damilola?node-id=1-14&t=bLB0pBpBaYBNiS6V-1
+
+https://www.figma.com/design/Gu9Co9MOwC2ruMnYUvDvrE/Ismail-Damilola?node-id=40002186-304&t=bLB0pBpBaYBNiS6V-1
+
+https://www.figma.com/design/Gu9Co9MOwC2ruMnYUvDvrE/Ismail-Damilola?node-id=40002186-3064&t=bLB0pBpBaYBNiS6V-1
